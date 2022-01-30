@@ -2,8 +2,6 @@
 
 ## Getting Started with Create React App
 
-Git Repo [clone](https://github.com/amanpandey-crypto/React_Notes.git)
-
 This [Project clone](https://github.com/amanpandey-crypto/React_Notes.git) was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
