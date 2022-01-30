@@ -1,8 +1,8 @@
 import React from 'react'
 import {MdSearch} from "react-icons/md"
-{/*this is our search component
+/*this is our search component
 here am using the handleSearchNote as props and we are going to use this
-as our onClick event function for searching (this actual function has been defined in App.js)*/}
+as our onClick event function for searching (this actual function has been defined in App.js)*/
 function Search({handleSearch}) {
     return (
         <div className="search">

@@ -1,7 +1,7 @@
 import React from 'react'
 import Note from './Note'
 import AddNote from './AddNote'
-{/* this component is storing the notes in a format*/}
+/* this component is storing the notes in a format*/
 
 const NotesList=({notes,handleAddNote,handleDelete}) =>{
     return (
