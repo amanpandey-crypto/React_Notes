@@ -1,6 +1,8 @@
-# React_Notes App [git clone:](https://github.com/amanpandey-crypto/React_Notes.git)
+# React_Notes App
 
 ## Getting Started with Create React App
+
+[git clone:](https://github.com/amanpandey-crypto/React_Notes.git)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
