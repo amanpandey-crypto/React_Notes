@@ -46,10 +46,10 @@ justify-content: space-between;
 textarea{
   border:none;
   resize: none;
-  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  background-image: linear-gradient(to top, #0ec576 0%, #309675 100%);
 }
 .note.new{
-  background-color: aquamarine;
+  background-color: rgb(183, 241, 222);
 }
 textarea:focus{
   outline: none;
